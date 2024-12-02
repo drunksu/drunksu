@@ -1,0 +1,8 @@
+void backtracking(parameter){
+    if(conditions for breakup){
+        return ;
+    }
+    create influences;
+    backtracking(next paraneter);
+    eliminate influences;
+}
