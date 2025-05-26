@@ -24,7 +24,7 @@
 
 ## 联系方式
 
-- Email: [your_email@example.com]
+- Email: [sterlingsu314@gmail.com]
 - GitHub: [https://github.com/drunksu](https://github.com/drunksu)
 
 ---
